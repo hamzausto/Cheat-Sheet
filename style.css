@@ -1,0 +1,43 @@
+body {
+  font-family: Arial;
+}
+
+.container {
+  padding: 5%;
+}
+
+.container h1 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+}
+
+.container h2 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  color: rgb(102, 51, 153);
+}
+
+.table-tags table {
+  width: 650px;
+  margin: 0 auto;
+}
+
+.table-tags table {
+  border: 2px solid #9932CC;
+}
+
+.table-tags thead {
+  background-color: #DDA0DD;
+}
+
+.table-tags td {
+  border-top: 1px solid #9932CC;
+}
+
+.code {
+  background-color: beige;
+  font-family: monospace;
+}
